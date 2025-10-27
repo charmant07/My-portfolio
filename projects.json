@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Neural Network Visualizer",
+      "description": "Interactive 3D visualization of neural networks with real-time training data.",
+      "technologies": ["TensorFlow", "Three.js", "React", "WebGL"],
+      "image": "project1.jpg",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/yourname/neural-viz"
+    },
+    {
+      "id": 2,
+      "title": "Quantum Computing Simulator",
+      "description": "Browser-based quantum circuit simulator with drag-and-drop interface.",
+      "technologies": ["JavaScript", "Quantum.js", "Vue 3", "WebAssembly"],
+      "image": "project2.jpg", 
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/yourname/quantum-sim"
+    },
+    {
+      "id": 3,
+      "title": "Blockchain Explorer",
+      "description": "Real-time cryptocurrency blockchain explorer with advanced analytics.",
+      "technologies": ["Node.js", "Web3.js", "D3.js", "MongoDB"],
+      "image": "project3.jpg",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/yourname/blockchain-explorer"
+    }
+  ]
+}
