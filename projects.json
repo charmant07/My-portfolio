@@ -2,30 +2,28 @@
   "projects": [
     {
       "id": 1,
-      "title": "Neural Network Visualizer",
-      "description": "Interactive 3D visualization of neural networks with real-time training data.",
-      "technologies": ["TensorFlow", "Three.js", "React", "WebGL"],
+      "title": "Meta Learning in AI",
+      "description": "A New Frontier for self-Adaptive intelligence. ",
+      "technologies": ["Python", "JavaScript"],
       "image": "project1.jpg",
-      "liveUrl": "https://example.com",
-      "githubUrl": "https://github.com/yourname/neural-viz"
+      "githubUrl": "https://github.com/charmant07/Meta-learning-AI.git"
     },
     {
       "id": 2,
-      "title": "Quantum Computing Simulator",
-      "description": "Browser-based quantum circuit simulator with drag-and-drop interface.",
-      "technologies": ["JavaScript", "Quantum.js", "Vue 3", "WebAssembly"],
+      "title": "Investment Calculator",
+      "description": "An Advanced Python program that calculates compound investment growth with optional monthly contributions and yearly graph breakdown.",
+      "technologies": ["JavaScript", "matplotlib", "python"],
       "image": "project2.jpg", 
-      "liveUrl": "https://example.com",
-      "githubUrl": "https://github.com/yourname/quantum-sim"
+      "githubUrl": "https://github.com/charmant07/Investment-calculator.git"
     },
     {
       "id": 3,
-      "title": "Blockchain Explorer",
-      "description": "Real-time cryptocurrency blockchain explorer with advanced analytics.",
-      "technologies": ["Node.js", "Web3.js", "D3.js", "MongoDB"],
+      "title": "Web Development",
+      "description": "A Simple Pipeline of Building a portfolio. ",
+      "technologies": ["Netlify", "Python", "HTML", "JavaScript"],
       "image": "project3.jpg",
-      "liveUrl": "https://example.com",
-      "githubUrl": "https://github.com/yourname/blockchain-explorer"
+      "githubUrl": "https://github.com/charmant07/My-portfolio.git"
     }
   ]
+
 }
